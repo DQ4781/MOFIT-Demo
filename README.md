@@ -16,7 +16,7 @@ Use the requirements.txt to install the needed libraries
 pip install -r requirements.txt
 ```
 
-In addition, you will need to download the Yolov8 Medium Pose Detection Model and put it in the same directory. You can download the offical model from Ultralytics [here]("https://github.com/ultralytics/assets/releases/download/v8.1.0/yolov8m-pose.pt")
+In addition, you will need to download the Yolov8 Medium Pose Detection Model and put it in the same directory. You can download the offical model from Ultralytics [here](https://github.com/ultralytics/assets/releases/download/v8.1.0/yolov8m-pose.pt)
 
 ## Running the Script
 
